@@ -68,3 +68,5 @@ In this final step, it’s time to bring your changes together – merging your 
 Click the green Merge pull request button to merge the changes into master.
 Click Confirm merge.
 Go ahead and delete the branch, since its changes have been incorporated, with the Delete branch button in the purple box.
+
+How to clone a repository
